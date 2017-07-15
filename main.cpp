@@ -1,8 +1,8 @@
 /*
  * ESPchat
  *
- * Created: 4.7.2017 21:43:55
- *  Author: me
+ * Created: 9.7.2017
+ * Author: BajaCali
  */ 
 
 #define SERIAL_BAUDRATE 115200
